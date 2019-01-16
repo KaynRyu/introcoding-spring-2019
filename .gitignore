@@ -1,0 +1,5 @@
+.DS_Store
+/.ipynb_checkpoints/
+/Private notebooks
+/Lecture notebooks/.ipynb_checkpoints/
+/Lecture notebooks/.DS_Store
