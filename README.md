@@ -1,10 +1,8 @@
 # Syllabus
 
-Explore the IPython notebooks at: <https://nbviewer.jupyter.org/github/soil-physics/pythoncode/tree/master/>
-
 **Classroom** 1017 Throckmorton Plant Science Center, Kansas State Uniersity.
 **Semester** Spring 2019.  
-**Days** Tuesdays and Thursdays.  
+**Days** Tuesdays and Thursdays from 2:30 to 3:45 PM.  
 **Instructor**: Andres Patrignani - Assistant Professor – TH1011A – andrespatrignani@ksu.edu  
 **Office hours**: Open door. Send me an email if you prefer to schedule a meeting.  
 
@@ -14,9 +12,10 @@ A hands-on introductory course on the fundamentals of modern high level programm
 
 ## Resource materials
 
-1. Main Github repository for this class: <https://github.com/soil-physics/pythoncode>
+1. GitHub repository: https://github.com/andres-patrignani/introcoding-spring-2019
 2. Python official documentation: <https://docs.python.org/3/>
-3. Class notes.
+3. Class notes and ipython notebooks.
+4. Anaconda package: <https://www.anaconda.com/download>
 
 ## Objectives
 
@@ -32,11 +31,11 @@ Students who successfully complete this course should be able to:
 
 * Installing Anaconda and review of included libraries and tools.
 
+* What is reproducible research? and why does it matter?
+
 * Writing first IPython notebook (Python, Markdown, and LaTeX)
 
 * Learning how to use Github
-
-* What is reproducible research? and why it matters?
 
 * Learning good programming habits
 
@@ -66,15 +65,17 @@ Students who successfully complete this course should be able to:
 
 * Curve fitting
 
-* Implement simple custom models and numerical simulations
+* Image analysis
+
+* Mapping
 
 ## Your responsibilities
 
-* **Preparation**: Read class notes, review class problems, and practice coding at home.
+**Preparation**: Read class notes, review class problems, and practice coding at home.
 
-* **Classroom**: I expect you to be punctual and to bring a laptop to follow coding exercises during class.
+**Classroom**: I expect you to be punctual and to bring a laptop to follow coding exercises during class.
 
-* **Lecture attendance**: Attendance is not mandatory, but it's expected. Missing two or more classes will likely lead to poor performance in the course since many classes are linked to each other.
+**Lecture attendance**: Attendance is not mandatory, but it's expected. Missing two or more classes will likely lead to poor performance in the course since many classes are linked to each other.
 
 ## Teaching methods
 
@@ -84,15 +85,24 @@ to develop your own code.
 
 ## Grades and policies
 
-* **Live coding challenges**: Small groups of students will be assigned with a challenge that needs to be addressed within the class period. The goal of these challenges is to stimulate the process of breaking down problems and teamwork. The code and associated documentation needs to be handled to the instructor at the end of the class.
+**Quizzes**: Each quiz will consist of questions and/or coding challenges related to concepts discussed in class. Quizzes will typically consist of finding mistakes in functions and scripts or solving a particular problem. The quiz with the lowest score will be dropped. There will be no make-up quizzes.
 
-* **Problems**: Each problem will consist of questions and/or coding exercises related to concepts discussed in class. Problems will include fill-in-the-blank questions and finding mistakes in functions and scripts. The problem with the lowest score will be dropped. There will be no make-up problems.
+**Semester project**: Each student will need to draft and implement a project using Python. Projects are individual and students will need to give periodic progress updates. A one-page project description needs to be turned in during the first two weeks of class. Projects need to be discussed with, and be approved by the instructor. For detailed information about semester projects visit the project description file. Grading of the semester project will be based on creativity, progress between reports, documentation quality, quality of figures/tables, and code syntax.
 
-* **Semester project**: Each student will need to draft and implement a project using Python. Projects are individual and students will need to give periodic progress updates. A one-page project description needs to be turned in during the first two weeks of class. Projects need to be discussed with and be approved by the instructor.
+**Final exam**: A take-home exam that will consist of finding the solution to a specific problem set by the instructor.
 
-* **Final exam**: The final exam will consist of finding the solution to a specific problem set by the instructor.
+There will be 100 points in periodic quizzes, 200 points in an individual semester project (project description, progress reports, code and documentation, and final presentation), and 200 points in a final exam, totaling 500 points. Grade assignment will be on the basis of total points and will follow the usual integer scale of A (90-100%), B (80-89%), C (70-79%), D (60-69%), and F (< 60%).
 
-There will be four 50-point live coding challenges, 100 points in periodic problem sets, 200 points in an individual semester project, and 100 points in a final exam, totaling 600 points. Grade assignment will be on the basis of total points and will follow the usual integer scale of A (90-100%), B (80-89%), C (70-79%), D (60-69%), and F (< 60%).
+
+## Important dates
+Deadline project description: Thursday, January 31, 2019 at 2:30 PM
+Deadline revised project description: Thursday, February 7, 2019 at 2:30 PM
+First oral progress report: Thursday, March 7, 2019
+Second oral progress report: Tuesday, April 9, 2019
+Deadline project files: Tuesday, May 7, 2019 at 5 PM
+Final project presentation: Thursday, May 9, 2019
+Final exam assignment date: Monday, May 13 at noon
+Final exam due date: Friday, May 17, 2019 at 11:59 AM
 
 ## Tardy work
 

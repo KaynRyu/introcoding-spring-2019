@@ -22,7 +22,7 @@ relationships.
 
 Literally, write few sentences on how you expect the code to work. Describe if inputs
 will be retrieved from a database or from the user, if you see your code as a webpage, as
-a simple script, or as a function.
+a simple script, or as a function. Breakdown the problem into smaller steps using your own words.
 
 ## Step 4: Choose a proper programming language
 
