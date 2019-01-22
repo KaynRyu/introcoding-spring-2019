@@ -22,51 +22,27 @@ A hands-on introductory course on the fundamentals of modern high level programm
 Students who successfully complete this course should be able to:
 
 * construct effective, well documented, and error free scripts and functions.
-
 * use programming to their graduate thesis project.
-
 * find information independently for self-teaching and problem solving.
 
 ## Topics
 
 * Installing Anaconda and review of included libraries and tools.
-
 * What is reproducible research? and why does it matter?
-
 * Writing first IPython notebook (Python, Markdown, and LaTeX)
-
 * Learning how to use Github
-
-* Learning good programming habits
-
-* Pseudocode and the art of breakdown problems
-
 * Import tabular data and deal with missing values using Pandas library
-
 * Create publication quality figures using Matplotlib and Bokeh
-
 * Descriptive statistics
-
-* Absolute and logical indexing
-
+* Data structures
+* Array slicing and indexing
 * Element-wise operations using Numpy library
-
 * Control flow (if statements)
-
 * Iterations (for and while loops)
-
-* Create and document functions
-
-* Use functions
-
+* Create, use, and document functions
 * Debugging
-
-* Linear models
-
 * Curve fitting
-
 * Image analysis
-
 * Mapping
 
 ## Your responsibilities
@@ -79,19 +55,18 @@ Students who successfully complete this course should be able to:
 
 ## Teaching methods
 
-I will include short lectures, live coding sessions, puzzles, and team challenges. My objective
-is to present programming in a friendly way using a variety of methods so you can understand the logic
+I will include short lectures, live coding sessions, and puzzles. My objective is to present programming in a friendly way using a variety of methods so you can understand the logic
 to develop your own code.
 
 ## Grades and policies
 
 **Quizzes**: Each quiz will consist of questions and/or coding challenges related to concepts discussed in class. Quizzes will typically consist of finding mistakes in functions and scripts or solving a particular problem. The quiz with the lowest score will be dropped. There will be no make-up quizzes.
 
-**Semester project**: Each student will need to draft and implement a project using Python. Projects are individual and students will need to give periodic progress updates. A one-page project description needs to be turned in during the first two weeks of class. Projects need to be discussed with, and be approved by the instructor. For detailed information about semester projects visit the project description file. Grading of the semester project will be based on creativity, progress between reports, documentation quality, quality of figures/tables, and code syntax.
+**Semester project**: Each student will need to draft and implement a project using the Python language. Projects are individual and students will need to give periodic progress updates. A one-page project description needs to be turned in during the first two weeks of class. Projects need to be discussed with, and be approved by, the instructor. For detailed information about semester projects visit the semester project description file in the Wiki folder of the Github repository. Grading of the semester project will be based on creativity, progress between reports, project documentation, quality of figures/tables, and code syntax.
 
 **Final exam**: A take-home exam that will consist of finding the solution to a specific problem set by the instructor.
 
-There will be 100 points in periodic quizzes, 200 points in an individual semester project (project description, progress reports, code and documentation, and final presentation), and 200 points in a final exam, totaling 500 points. Grade assignment will be on the basis of total points and will follow the usual integer scale of A (90-100%), B (80-89%), C (70-79%), D (60-69%), and F (< 60%).
+There will be 100 points in periodic quizzes, 200 points in an individual semester project, and 200 points in a final exam, totaling 500 points. Grade assignment will be on the basis of total points and will follow the usual integer scale of A (90-100%), B (80-89%), C (70-79%), D (60-69%), and F (< 60%).
 
 
 ## Important dates

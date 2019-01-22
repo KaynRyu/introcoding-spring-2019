@@ -1,43 +1,34 @@
-
 # Semester Project Instructions
-
-**Motivation** The semester project consists of creating a Python program that solves a specific problem or executes a specific task. The project may consist of more than one function or python file.
+**Motivation**: The semester project consists of creating a Python program that solves a specific problem or executes a specific task. The project may consist of more than one function or python file.
 
 ## Project Rules
-    
 * Projects are individual
-
 * Projects need to be hosted in a public repository in your Github account
-
 * Projects must have a general documentation written in Markdown
-
 * Function/s documentation must be written using Python comments
-
 * Equations have to be written in LaTeX
-
 * Code must be Python 3
 
-
-## Components of project summary
-
+## Components of project proposal
 1. Background and rationale (max 150 words)
 2. Objective of the code
 3. Sketch
-4. Pseudocode
-5. Provide tentaitve list of state variables, functions, and modules
-6. References
+4. References
+5. Project proposal must not exceed one page
+6. Use Time New Romans 11 with one inch margins
+7. You can send the proposal in using .docx or .md format
+8. Save the file using your first and last name (all lower case). For instance: johnsmith.docx or johnsmith.md
 
-## Project mid-semester oral presentation
+## Project mid-semester oral progress report
 
-Students need to make a 5-minute presentation explaining:
+Students need to make two 5-minute progress reports explaining:
 
 * Goal and rationale of the project
-* Project diagram/sketch/flowchart/
+* Project diagram/sketch/flowchart
 * Current progress and roadblocks
 
-The goal of the mid-term presentation is to gain feedback from the instructor and classmates.
-I highly encourage you to start coding the barebones of your project before the mid-term presentation,
-so that you can identify roadblocks.
+The goal of the progress reports is to gain feedback from the instructor and classmates.
+I highly encourage you to start coding your project as soon as you can, so that you can identify roadblocks.
 
 
 ## Project final oral presentation
@@ -52,7 +43,7 @@ The presentation must include:
     * required inputs and project outputs
     * challenges that you faced while creating the project and how you solved the problems
     
-3. Live demonstration of the code with an example 
+2. Live demonstration of the code with an example 
 
 ## Grading
 
@@ -60,5 +51,5 @@ The final grade for your project will be based on:
 
 * Creativity
 * Clear rationale and problem statement
-* Attention to detail in documentation, figures, presentations
-* Project complexity. This is probably the hardest point to get right. The project should not be too simple and not too complicated. The project needs to make use of multiple concepts covered in class, explore new tools, while ensuring that it can be accomplished during the semester.
+* Attention to detail in documentation, figures, and presentations
+* Project complexity. This is probably the hardest point to get right, so keep it simple. The more you advance in your project the more ideas you will have to make it better. The project needs to make use of multiple concepts covered in class and beyond. Ensure that the project can be accomplished during the semester.
