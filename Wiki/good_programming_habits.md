@@ -1,4 +1,3 @@
-
 # Good Programming Habits
 
 ## Define the goal

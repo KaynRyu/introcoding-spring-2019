@@ -12,12 +12,13 @@
 ## Components of project proposal
 1. Background and rationale (max 150 words)
 2. Objective of the code
-3. Sketch
+3. Outcomes: What tangible outcomes do you envision for your project?
+3. Sketch: A simple diagram or flow chart depicting the conceptual layout of your project.
 4. References
 5. Project proposal must not exceed one page
 6. Use Time New Romans 11 with one inch margins
-7. You can send the proposal in using .docx or .md format
-8. Save the file using your first and last name (all lower case). For instance: johnsmith.docx or johnsmith.md
+7. Save the file using your first and last name (all lower case). For instance: johnsmith.docx or johnsmith.md
+8. You can send the proposal file by e-mail or just point me to your github project repository.
 
 ## Project mid-semester oral progress report
 

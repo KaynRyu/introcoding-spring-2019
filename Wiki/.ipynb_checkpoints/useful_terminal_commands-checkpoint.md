@@ -48,7 +48,7 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 
 `git add <filename>` In case you want to add a single file to your repository. `<filename>` could be `mytextfile.txt`
 
-`git commit -a -m "<write here a short descriptive message>"`: Send changes to remote repository. **Messages are mandatory** and should short and descriptive. Don't accumulate too many changes before committing, otherwise your message/comment will not be meaningful to all the changes you made.
+`git commit -a -m "<write here a short descriptive message>"`: Send changes to remote repository. **Messages are mandatory** and should be short and descriptive. Don't accumulate too many changes before committing, otherwise your message/comment will not be meaningful to all the changes you made.
 
 `git push origin master` Upload changes to master branch in the Github repository. To see changes make sure you refresh the Github webpage.
 
