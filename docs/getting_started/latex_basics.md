@@ -5,6 +5,8 @@ parent: Getting started
 nav_order: 6
 ---
 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+
 # LaTeX equations
 
 LaTeX is a typesetting that allows technical writers and scientists to write focusing on the content and without worrying abou the format. LaTeX is free under the terms of the LaTeX Project Public License (LPPL).
