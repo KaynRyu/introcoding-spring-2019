@@ -1,3 +1,10 @@
+---
+layout: default
+title: Installing software
+parent: Getting started
+nav_order: 2
+---
+
 For this class you will need to install the Anaconda package, Git, and create an account in Github. We will write code using the web browser, so I recommend having Google Chrome installed.
 
 # Anaconda Package

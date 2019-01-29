@@ -1,3 +1,11 @@
+---
+layout: default
+title: Motivation
+nav_order: 4
+has_children: false
+permalink: /docs/motivation
+---
+
 # Inspirational quotes about coding
 
 Source: <https://code.org/>

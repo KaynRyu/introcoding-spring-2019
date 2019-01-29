@@ -1,3 +1,10 @@
+---
+layout: default
+title: Markdown basics
+parent: Getting started
+nav_order: 4
+---
+
 # Markdown basics
 
 Source: https://github.github.com/gfm/

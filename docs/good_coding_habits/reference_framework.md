@@ -1,4 +1,11 @@
-# Good Programming Habits
+---
+layout: default
+title: Reference coding framework
+parent: Good coding habits
+nav_order: 2
+---
+
+# Reference coding framework
 
 ## Define the goal
 Briefly describe the purpose of the code. What need does your idea satisfy?

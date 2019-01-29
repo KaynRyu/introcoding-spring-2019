@@ -1,3 +1,10 @@
+---
+layout: default
+title: Interesting python libraries
+parent: Getting started
+nav_order: 5
+---
+
 # Python libraries
 
 Note that module descriptions were obtained from their respective offical site.

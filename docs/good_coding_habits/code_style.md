@@ -1,5 +1,11 @@
+---
+layout: default
+title: Python code style
+parent: Good coding habits
+nav_order: 3
+---
 
-# Code Style
+# Python code style
 
 * If available, use cell mode (e.g. Jupyter notebooks, Matlab Live Script) to build your code step by step. Proceed to the next step after the current cell is producing the desired outcome.
 
