@@ -65,6 +65,9 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 
 `git checkout <branch name>`: Changes scope to any branch, including the master branch. This command assumes that you have a branch.
 
+`git config --global core.editor "nano"` changes the default editor from "vim" to "nano". In my opinion **nano** is a bit more friendly for beginners.
+
+
 
 
 
