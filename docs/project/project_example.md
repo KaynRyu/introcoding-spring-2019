@@ -1,3 +1,10 @@
+---
+layout: default
+title: Project example
+parent: project
+nav_order: 2
+---
+
 ## Calculate growing degree days
 
 **Name**: Andres Patrignani<br/>
