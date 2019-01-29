@@ -40,7 +40,7 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 
 **Common Git commands**
 
-`git clone <repository link>`: Clone repository into your local computer or a remote server. If you work on a server or supercomputer, cloning a repository from a cloud-based platform like Github is much easier than transferring files using the terminal or copy pasting files using a graphical user interface like FileZilla.
+`git clone <repository link>`: Clone repository into your local computer or a remote server. You only clone your repository once. If you work on a server or supercomputer, cloning a repository from a cloud-based platform like Github is much easier than transferring files using the terminal or copy pasting files using a graphical user interface like FileZilla. 
 
 `git status`: This command provides the state of the current repository in the local computer (or server) relative to Github's remote repository.
 
