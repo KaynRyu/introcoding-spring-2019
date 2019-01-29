@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-baseurl: "/introcoding-spring-2019/"
+baseurl: "/introcoding-spring-2019"
 search_enabled: true
 aux_links:
     "GitHub repo":
