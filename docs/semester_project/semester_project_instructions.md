@@ -3,7 +3,6 @@ layout: default
 title: Semester project instructions
 nav_order: 5
 has_children: false
-permalink: /docs/semester_project
 ---
 
 # Semester Project Instructions
