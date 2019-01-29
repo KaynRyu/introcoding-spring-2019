@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Semester project instructions
+title: Project instructions
 nav_order: 5
 has_children: false
 ---
