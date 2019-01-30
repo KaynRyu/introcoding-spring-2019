@@ -2,7 +2,7 @@
 layout: default
 title: Project example
 parent: project
-nav_order: 2
+nav_order: 3
 ---
 
 ## Calculate growing degree days

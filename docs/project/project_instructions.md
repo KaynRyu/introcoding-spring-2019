@@ -2,7 +2,7 @@
 layout: default
 title: Project instructions
 parent: project
-nav_order: 1
+nav_order: 2
 ---
 
 # Semester Project Instructions
