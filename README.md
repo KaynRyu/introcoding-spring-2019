@@ -1,11 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "An introduction to scientific coding with python"
-permalink: /
----
-
 # Syllabus
 
 **Classroom** 1017 Throckmorton Plant Science Center, Kansas State Uniersity.
