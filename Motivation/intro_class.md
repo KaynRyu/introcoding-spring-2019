@@ -38,15 +38,25 @@ This course aims at make you a **competent/proficient** programmer, meaning that
 ## Brief history of coding languages in Science (10 min)
 Timeline of programming languages. [Source](https://www.wikiwand.com/en/Timeline_of_programming_languages)
     * 1958 - Fortran II
+    
     * 1964 - BASIC (Soil Physics with Basic by G. Campbell)
+    
     * 1970 - Pascal
+    
     * 1972 - C (Low level, base of other languages: C++,Java,JavaScript,C#,PHP, Python)
+    
     * 1976 - SAS
+    
     * 1978 - Matlab (https://www.mathworks.com/products/matlab.html)
+    
     * 1989 - Python (https://www.python.org/)
+    
     * 1990 - HTML (physicist Tim Berners-Lee, a contractor at CERN, used for documentation)
+    
     * 1993 - R (https://www.r-project.org/)
+    
     * 1995 - Java, PHP, Javascript, Ruby
+    
     * 2012 - Julia (https://julialang.org/)
 
 ## Why Python?
