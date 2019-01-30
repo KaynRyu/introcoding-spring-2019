@@ -1,7 +1,7 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: poole/lanyon # remote_theme: pmarsceill/just-the-docs
 title: Python coding
 baseurl: "/introcoding-spring-2019"
-search_enabled: true
-aux_links:
-    "GitHub repo":
-      - "//github.com/andres-patrignani/introcoding-spring-2019"
+#search_enabled: true
+#aux_links:
+#    "GitHub repo":
+#      - "//github.com/andres-patrignani/introcoding-spring-2019"
