@@ -1,6 +1,6 @@
 # Syllabus
 
-**Classroom** 1017 Throckmorton Plant Science Center, Kansas State Uniersity.
+**Classroom** 1017 Throckmorton Plant Science Center, Kansas State Uniersity.  
 **Semester** Spring 2019.  
 **Days** Tuesdays and Thursdays from 2:30 to 3:45 PM.  
 **Instructor**: Andres Patrignani - Assistant Professor – TH1011A – andrespatrignani@ksu.edu  
@@ -12,7 +12,7 @@ A hands-on introductory course on the fundamentals of modern high level programm
 
 ## Resource materials
 
-1. GitHub repository: https://github.com/andres-patrignani/introcoding-spring-2019
+1. GitHub repository: <https://github.com/andres-patrignani/introcoding-spring-2019>
 2. Python official documentation: <https://docs.python.org/3/>
 3. Class notes and ipython notebooks.
 4. Anaconda package: <https://www.anaconda.com/download>
@@ -68,16 +68,16 @@ to develop your own code.
 
 There will be 100 points in periodic quizzes, 200 points in an individual semester project, and 200 points in a final exam, totaling 500 points. Grade assignment will be on the basis of total points and will follow the usual integer scale of A (90-100%), B (80-89%), C (70-79%), D (60-69%), and F (< 60%).
 
-
 ## Important dates
-Deadline project description: Thursday, January 31, 2019 at 2:30 PM
-Deadline revised project description: Thursday, February 7, 2019 at 2:30 PM
-First oral progress report: Thursday, March 7, 2019
-Second oral progress report: Tuesday, April 9, 2019
-Deadline project files: Tuesday, May 7, 2019 at 5 PM
-Final project presentation: Thursday, May 9, 2019
-Final exam assignment date: Monday, May 13 at noon
-Final exam due date: Friday, May 17, 2019 at 11:59 AM
+
+* Deadline project description: Thursday, January 31, 2019 at 2:30 PM
+* Deadline revised project description: Thursday, February 7, 2019 at 2:30 PM.
+* First oral progress report: Thursday, March 7, 2019
+* Second oral progress report: Tuesday, April 9, 2019
+* Deadline project files: Tuesday, May 7, 2019 at 5 PM
+* Final project presentation: Thursday, May 9, 2019
+* Final exam assignment date: Monday, May 13 at noon
+* Final exam due date: Friday, May 17, 2019 at 11:59 AM
 
 ## Tardy work
 

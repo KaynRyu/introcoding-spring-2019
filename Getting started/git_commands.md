@@ -1,6 +1,6 @@
 # Useful Git commands
 
-**Set configuration file**
+## Set configuration file
 
 You can run the commands below anywhere, you don't need to be inside any specific directory or repository. These commands will change information in Git's configuration file, so that you don't have to re-type your username and email everytime you make a commit.
 
@@ -12,10 +12,7 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 
 `.gitignore` contains file and folder names that you don't want to keep track of version control. In other words, they will not sync with Github. If you added a rule in the .gitignore file after the file or folder has been added to your Github, you will need to erase the cache of the repository and then add the files again, so that changes take effect. You can do this following these commands: `git rm --cached -r .` and then `git add .`
 
-
-<br/>
-
-**Common Git commands**
+## Common Git commands
 
 `git clone <repository link>`: Clone repository into your local computer or a remote server. You only clone your repository once. If you work on a server or supercomputer, cloning a repository from a cloud-based platform like Github is much easier than transferring files using the terminal or copy pasting files using a graphical user interface like FileZilla. 
 
