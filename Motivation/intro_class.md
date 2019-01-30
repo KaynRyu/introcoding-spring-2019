@@ -37,6 +37,7 @@ This course aims at make you a **competent/proficient** programmer, meaning that
 
 ## Brief history of coding languages in Science (10 min)
 Timeline of programming languages. [Source](https://www.wikiwand.com/en/Timeline_of_programming_languages)
+
     * 1958 - Fortran II
     
     * 1964 - BASIC (Soil Physics with Basic by G. Campbell)
