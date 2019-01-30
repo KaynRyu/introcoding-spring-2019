@@ -1,10 +1,3 @@
----
-layout: default
-title: Useful terminal commands
-parent: Getting started
-nav_order: 3
----
-
 # Useful Terminal Commands
 
 **General commands** (assuming you are using Mac terminal or Git Bash)

@@ -1,11 +1,6 @@
----
-layout: default
-title: Project example
-parent: Project
-nav_order: 3
----
+This is an example semester project proposal.
 
-## Calculate growing degree days
+# Calculate growing degree days
 
 **Name**: Andres Patrignani<br/>
 **Semester**: Spring 2019 <br/>

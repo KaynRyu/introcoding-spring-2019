@@ -1,10 +1,3 @@
----
-layout: default
-title: Reference coding framework
-parent: Good coding habits
-nav_order: 2
----
-
 # Reference coding framework
 
 ## Define the goal

@@ -1,10 +1,3 @@
----
-layout: default
-title: LaTeX equations
-parent: Getting started
-nav_order: 6
----
-
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 # LaTeX equations

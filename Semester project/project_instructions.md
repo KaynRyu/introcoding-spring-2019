@@ -1,9 +1,5 @@
----
-layout: default
-title: Project instructions
-parent: Project
-nav_order: 2
----
+# Semester Project
+The semester project consists of creating a Python program that solves a specific problem or executes a specific task. The project may consist of more than one function or python file.
 
 ## Project Rules
 * Projects are individual

@@ -1,13 +1,8 @@
----
-layout: default
-title: Installing software
-parent: Getting started
-nav_order: 2
----
 
+# Installating packages
 For this class you will need to install the Anaconda package, Git, and create an account in Github. We will write code using the web browser, so I recommend having Google Chrome installed.
 
-# Anaconda Package
+## Anaconda Package
 
 We will use the Anaconda environment, which is a set of curated python packages commonly used in science and engineering. The Anaconda environment is available for free by Continuum Analytics.
 
@@ -36,7 +31,7 @@ Double click on the installer and follow the steps. When asked, I highly suggest
 *Spyder*: An integrated development environment for scientific coding in Python. It features a graphical user interface similar to that of Matlab.
 
 
-# Git
+## Git
 **What is Git?**
 * Git is a version control system that tracks changes.
 
@@ -49,7 +44,7 @@ Double click on the installer and follow the steps. When asked, I highly suggest
 3. Follow the installer and use default intallation settings
 4. We will most use the command window (called Git Bash), but we need it in order to work with Github.
 
-# Github
+## Github
 
 **What is Github?**
 * Github is a web platform built around Git and has disrupted the software industry. 
