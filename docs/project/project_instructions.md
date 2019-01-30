@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Project instructions
+parent: project
 nav_order: 1
-has_children: true
-permalink: /docs/project
 ---
 
 # Semester Project Instructions
