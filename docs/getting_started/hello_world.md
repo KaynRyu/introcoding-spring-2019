@@ -5,7 +5,6 @@ parent: Getting started
 nav_order: 7
 ---
 
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 
