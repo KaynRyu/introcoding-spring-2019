@@ -1,30 +1,4 @@
-# Useful Terminal Commands
-
-**General commands** (assuming you are using Mac terminal or Git Bash)
-
-`cd <foldername>` To navigate into a new folder (assuming the folder exists in the directory).
-
-`cd ..` To navigate out of the current directory
-
-`ls` To list the content of the folder
-
-
-<br/>
-
-
-**Useful shortcuts**
-
-Use `Tab key` to autocomplete directory and file names
-
-Use `arrow-up` to access the last command
-
-In Macs use `cmd + v` to paste text into the terminal
-
-In Windows machines use `shift + insert` to paste text into Git bash
-
-
-<br/>
-
+# Useful Git commands
 
 **Set configuration file**
 
@@ -34,9 +8,12 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 
 `git config --global user.email andrespatrignani@ksu.edu` In this case see that I did not include the email between quotation marks as I did with the username.
 
+`git config --global core.editor "nano"` changes the default editor from "vim" to "nano". In my opinion **nano** is a bit more friendly for beginners. Exit nano by pressing `ctrl + X`
+
+`.gitignore` contains file and folder names that you don't want to keep track of version control. In other words, they will not sync with Github. If you added a rule in the .gitignore file after the file or folder has been added to your Github, you will need to erase the cache of the repository and then add the files again, so that changes take effect. You can do this following these commands: `git rm --cached -r .` and then `git add .`
+
 
 <br/>
-
 
 **Common Git commands**
 
@@ -57,11 +34,3 @@ You can run the commands below anywhere, you don't need to be inside any specifi
 `git checkout -- .`: Disregard changes.
 
 `git checkout <branch name>`: Changes scope to any branch, including the master branch. This command assumes that you have a branch.
-
-`git config --global core.editor "nano"` changes the default editor from "vim" to "nano". In my opinion **nano** is a bit more friendly for beginners.
-
-
-
-
-
-
