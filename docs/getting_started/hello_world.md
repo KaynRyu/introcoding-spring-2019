@@ -13122,7 +13122,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Getting-started">Getting started<a class="anchor-link" href="#Getting-started">&#182;</a></h1><p>Here are some of the most basic Python commands so that you can create your very first notebook.</p>
+<h1 id="Hello-world">Hello world<a class="anchor-link" href="#Hello-world">&#182;</a></h1><p>Here are some of the most basic Python commands so that you can create your very first notebook.</p>
 <p><strong>Few comments about Jupyter notebooks</strong></p>
 <ul>
 <li>Code lives in cells, which help organizing your code. The main advantage of cells is that you can run (i.e. execute code) cells individually to ensure that the code is working properly before you move forward.</li>
