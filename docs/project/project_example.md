@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project example
-parent: project
+parent: Project
 nav_order: 3
 ---
 
