@@ -60,7 +60,7 @@ to develop your own code.
 
 ## Grades and policies
 
-**Quizzes**: Each quiz will consist of questions and/or coding challenges related to concepts discussed in class. Quizzes will typically consist of finding mistakes in functions and scripts or solving a particular problem. The quiz with the lowest score will be dropped. There will be no make-up quizzes.
+**Assignments**: Each assignment will consist of quiz questions and/or coding challenges related to concepts discussed in class. Assignments will typically consist of finding mistakes in functions and scripts or solving a particular problem. The assignment with the lowest score will be dropped. There will be no make-up assignments.
 
 **Semester project**: Each student will need to draft and implement a project using the Python language. Projects are individual and students will need to give periodic progress updates. A one-page project description needs to be turned in during the first two weeks of class. Projects need to be discussed with, and be approved by, the instructor. For detailed information about semester projects visit the semester project description file in the Wiki folder of the Github repository. Grading of the semester project will be based on creativity, progress between reports, project documentation, quality of figures/tables, and code syntax.
 
@@ -81,7 +81,7 @@ There will be 100 points in periodic quizzes, 200 points in an individual semest
 
 ## Tardy work
 
-Assignments turned in after the class has started will not be considered for an "A" grade.
+Assignments turned in after the deadline will not be considered for an "A" grade.
 
 ## Academic Integrity
 
