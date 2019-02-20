@@ -23,3 +23,4 @@ Use `arrow-up` to access the last command
 In Macs use `cmd + v` to paste text into the terminal
 
 In Windows machines use `shift + insert` to paste text into Git bash
+#You can also use `ctrl + v` to paste on Windows
